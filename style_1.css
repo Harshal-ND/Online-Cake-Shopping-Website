@@ -1,0 +1,232 @@
+
+	#four,#one {
+		
+		height: 120px;
+		background-color:black;
+	}
+	
+	
+	.rounded {
+
+	margin-top:10px;
+	height:100px;
+	filter: invert();
+	
+	}
+	#one li{
+		
+		display: inline-block;
+		color: white;
+		margin-top:40px;
+		
+	}
+	#one li{
+		
+		transition-property:transform;
+		transition-duration:0.5s;
+		
+	}
+	
+	#one li:hover{
+		
+		
+		transform:scale(1.5);
+	}
+	
+	
+	
+	.two{
+		
+		height:30px;
+		width:250px;
+		margin-top:45px;
+		margin-left:45px;
+		
+	}
+	.call{
+		
+		text-decoration:none;
+		color:white;
+		transition-property:transform;
+		transition-duration:1s;
+		
+	}
+	
+	.call:hover{
+		
+		color:white;
+		border-bottom: 2px solid grey;
+		padding:5px;
+
+	}
+	
+	/*  NAVBAR */
+	
+	#five{
+		
+		background-color:black;
+		color:white;
+		
+	}
+		
+	#five a{
+		
+		background-color:black;
+		color:white;
+		margin-left:40px;
+		
+	}
+	
+	#six{
+		
+		margin-left:385px;
+		
+	}
+	#five a:hover{
+		
+		
+		color:rgb(51, 204, 204);
+		
+		
+		
+	}
+	
+	
+	/* SECOND PAGE - CAKES.HTML*/
+	
+	
+	
+	
+	#seven{
+		
+		background-color:black;
+		
+	}
+	#seven h1{
+		padding: 20px;
+		font-size:50px;
+		color:white;
+		font-style:Lucida Handwriting;
+		font-family:cursive;
+	}
+	#seven h1:hover {
+		
+		color:rgb(255, 204, 0);
+		
+	}
+	#seven .col-sm-8{
+		
+		margin-top:150px;
+		color:white;
+		font-style:Lucida Handwriting;
+		font-family:cursive;
+		text-align:justify;
+	}
+	#seven .col-sm-8:hover {
+		
+		color:rgb(255, 204, 0);
+		
+	}
+	
+	#nine{
+		padding:50px;
+	}
+	
+	
+	#ten{
+		
+		transition-property:transform;
+		transition-duration:0.75s;
+	}
+	
+	#ten:hover{
+		
+		transform:scale(1.1);
+		
+	}
+	
+    
+	#eleven{
+		
+		background-color:black;
+	}
+
+		
+	#eleven .col-sm-6{
+		
+		margin-top:150px;
+		margin-bottom:50px;
+		color:white;
+		font-style:Lucida Handwriting;
+		font-family:cursive;
+		text-align:justify;
+	}
+	
+	 .hnd:hover {
+		
+		color:red;
+		
+	}
+	.logo2 {
+
+	margin-top:140px;
+	margin-left:20px;
+	height:100px;
+	filter: invert();
+	
+	}
+	
+	/* THIRD PAGE - ABOUT US*/
+	
+	#twelve{
+		
+		color:white;
+		font-size:50px;
+		font-style:Lucida Handwriting;
+		font-family:cursive;
+		text-align:center;
+		
+	}
+		#twelve p{
+		
+		margin-top:100px;
+		
+	}
+	.map{
+		
+		margin-top:50px;
+		margin-bottom:50px;
+		border:2px solid gray;
+		padding:20px;
+	}
+	
+	.query{
+		border:3px solid grey;
+		color:yellow;
+		margin-top:50px;
+		padding:50px;
+	}
+	
+	
+	/*-- REGISTER PAGE--*/
+	
+	.register,.card,.login,.register_body,.login_body
+	{
+		background-color:black;
+		color:white;
+		font-style:Lucida Handwriting;
+		font-family:cursive;
+		text-align:center;
+	
+	
+	}
+	.card-body
+	{
+		/*background-color:rgba(64, 64, 64, 1);*/
+		background-color:#613659;
+		color:white;
+	}
+	
+	
+	
+	
